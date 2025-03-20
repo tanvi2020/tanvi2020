@@ -18,6 +18,6 @@ Here are some of my notable projects:
 🔹 [Stock Market Analysis](https://github.com/tanvi2020/Stock-Market-Analysis.git)  
 
 ## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tanvi-ranganekar-7a57861b3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvi-ranganekar-7a57861b3)
   
 
