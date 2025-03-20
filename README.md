@@ -11,11 +11,11 @@ This profile showcases my journey in **Data Science, DSA, and Machine Learning**
 ## 📂 Projects
 Here are some of my notable projects:
 
-🔹 [Algorithms from Scratch](https://github.com/tanvi2020/Algorithms_from_scratch)  
-🔹 [SQL Case Studies](https://github.com/tanvi2020/SQL-Projects)  
-🔹 [Data Structures & Algorithms](https://github.com/tanvi2020/DSA-using-Python)  
--🔹 [Business Rates Analysis](https://github.com/tanvi2020/Business-Rates-Analysis.git) 
--🔹 [Stock Market Analysis](https://github.com/tanvi2020/Stock-Market-Analysis.git)  
+- 🔹 [Algorithms from Scratch](https://github.com/tanvi2020/Algorithms_from_scratch)  
+- 🔹 [SQL Case Studies](https://github.com/tanvi2020/SQL-Projects)  
+- 🔹 [Data Structures & Algorithms](https://github.com/tanvi2020/DSA-using-Python)  
+- 🔹 [Business Rates Analysis](https://github.com/tanvi2020/Business-Rates-Analysis.git) 
+- 🔹 [Stock Market Analysis](https://github.com/tanvi2020/Stock-Market-Analysis.git)  
 
 ## 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvi-ranganekar-7a57861b3)
