@@ -6,7 +6,7 @@ This profile showcases my journey in **Data Science, DSA, and Machine Learning**
 ### 🔹 My Skills:
 - 🛠 SQL, Power BI, Python, Pandas, NumPy
 - 🏆 Machine Learning: Linear Regression, Logistic Regression, Decision Trees
-- 🚀 Data Structures & Algorithms: Two Pointers, Sliding Window, Sorting & Searching
+- 🚀 Data Structures & Algorithms: Two Pointers, Sliding Window, Recursion Sorting & Searching
 
 ## 📂 Projects
 Here are some of my notable projects:
