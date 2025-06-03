@@ -11,12 +11,12 @@ This profile showcases my journey in **Data Science, DSA, and Machine Learning**
 ## 📂 Projects
 Here are some of my notable projects:
 
-🔹 [Algorithms from Scratch](https://github.com/tanvi2020/Algorithms_from_scratch.git)  
-🔹 [SQL Case Studies](https://github.com/tanvi2020/SQL_queries.git)  
-🔹 [Data Structures & Algorithms](https://github.com/tanvi2020/DSA-using-Python.git)  
-🔹 [Business Rates Analysis](https://github.com/tanvi2020/Business-Rates-Analysis.git) 
-🔹 [Stock Price Prediction End-To-End](https://github.com/tanvi2020/Stock-Price-Prediction-End-to-End-.git)
-🔹 [Spotify Mood Playlist Clustering Using K-Means](https://github.com/tanvi2020/Spotify-Mood-Playlist-Clustering-Using-K-Means-.git)
+- 🔹 [Algorithms from Scratch](https://github.com/tanvi2020/Algorithms_from_scratch.git)  
+- 🔹 [SQL Case Studies](https://github.com/tanvi2020/SQL_queries.git)  
+- 🔹 [Data Structures & Algorithms](https://github.com/tanvi2020/DSA-using-Python.git)  
+- 🔹 [Business Rates Analysis](https://github.com/tanvi2020/Business-Rates-Analysis.git) 
+- 🔹 [Stock Price Prediction End-To-End](https://github.com/tanvi2020/Stock-Price-Prediction-End-to-End-.git)
+- 🔹 [Spotify Mood Playlist Clustering Using K-Means](https://github.com/tanvi2020/Spotify-Mood-Playlist-Clustering-Using-K-Means-.git)
 
 ## 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvi-ranganekar-7a57861b3)
