@@ -3,10 +3,21 @@
 Hello, I'm **Tanvi**, a Data Science aspirant with expertise in **SQL, Python, and Data Analysis**.  
 This profile showcases my journey in **Data Science, DSA, and Machine Learning**.  
 
-### 🔹 My Skills:
-- 🛠 SQL, Python, Pandas, NumPy
-- 🏆 Machine Learning: Linear Regression, Logistic Regression, Decision Trees,Regression Trees, Random Forest , Bagging and Boosting Algorithms and SVM
-- 🚀 Data Structures & Algorithms: Two Pointers, Sliding Window, Recursion, Sorting & Searching, Arrays and Linked Lists
+### 🔹 My Skills
+- 🛠 Programming & Libraries:
+Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+- 🧠 Machine Learning:
+Linear Regression, Logistic Regression, Decision Trees, Regression Trees, Random Forest, Bagging, Boosting (AdaBoost, Gradient Boosting), SVM
+
+- 📊 Data Science & Analytics:
+EDA, Data Cleaning, Feature Engineering, Model Evaluation, Time Series Forecasting
+
+- 📚 Statistical Skills:
+Descriptive Statistics, Probability Distributions, Hypothesis Testing (Z-Test, T-Test, Chi-Square Test, ANOVA)
+
+- 💬 Visualization & Communication:
+Insight Presentation, Data Visualization (Matplotlib, Seaborn)
 
 ## 📂 Projects
 Here are some of my notable projects:
