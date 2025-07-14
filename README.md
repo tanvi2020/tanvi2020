@@ -8,7 +8,7 @@ This profile showcases my journey in **Data Science and Machine Learning**.
 Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 - 🧠 Machine Learning:
-Linear Regression, Logistic Regression, Decision Trees, Regression Trees, Random Forest, Bagging, Boosting (AdaBoost, Gradient Boosting),SVM, DBSCAN,XGBoost,LSTMs
+Linear Regression, Logistic Regression, Decision Trees, Regression Trees, Random Forest, Bagging, Boosting (AdaBoost, Gradient Boosting), SVM, DBSCAN, XGBoost, LSTMs
 
 - 📊 Data Science & Analytics:
 EDA, Data Cleaning, Feature Engineering, Model Evaluation, Time Series Forecasting
