@@ -1,14 +1,14 @@
 # 👋 Introducing Myself
 
 Hello, I'm **Tanvi**, a Data Science aspirant with expertise in **SQL, Python, and Data Analysis**.  
-This profile showcases my journey in **Data Science, DSA, and Machine Learning**.  
+This profile showcases my journey in **Data Science and Machine Learning**.  
 
 ### 🔹 My Skills
 - 🛠 Programming & Libraries:
 Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 - 🧠 Machine Learning:
-Linear Regression, Logistic Regression, Decision Trees, Regression Trees, Random Forest, Bagging, Boosting (AdaBoost, Gradient Boosting), SVM
+Linear Regression, Logistic Regression, Decision Trees, Regression Trees, Random Forest, Bagging, Boosting (AdaBoost, Gradient Boosting),SVM, DBSCAN,XGBoost,LSTMs
 
 - 📊 Data Science & Analytics:
 EDA, Data Cleaning, Feature Engineering, Model Evaluation, Time Series Forecasting
