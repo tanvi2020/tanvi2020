@@ -6,7 +6,7 @@ I’m a Data Science graduate focused on building systems that decide what users
 - Building a **Personalized Product Ranking System**
 - Modeling **real-world user behavior** using synthetic data
 - Exploring **Agentic AI systems**
-
+Personalized Product Ranking Engine (https://github.com/tanvi2020/personalized-product-ranking-engine.git)
 ## 🧠 Areas of Interest
 - Ranking & Recommendation Systems  
 - Personalization  
