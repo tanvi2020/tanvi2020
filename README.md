@@ -17,11 +17,11 @@ What excites me most is not just training machine learning models, but understan
 
 ## ⭐ Featured Projects
 
-### 🔹 Scalable Product Analytics & Experimentation Platform *(In Progress)*
+### 🔹 Behavior-Driven Product Analytics & Experimentation Platform *(In Progress)*
 
 A production-style product analytics platform that simulates how modern technology companies evaluate product changes using realistic user behavior data, experimentation, business KPIs, and statistical analysis.
 
-🔗 https://github.com/tanvi2020/Scalable-Product-Analytics-Experimentation-Platform-
+🔗 https://github.com/tanvi2020/Behavior-Driven-Product-Analytics-Experimentation-Platform
 
 ---
 
